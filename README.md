@@ -5,8 +5,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caioeverest/)](https://www.linkedin.com/in/caioeverest/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mollivier.dev@gmail.com)](mailto:caioeverest.b@gmail.com/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/caioeverest)](https://twitter.com/caioeverest)
-[![Dev.to Badge](https://img.shields.io/badge/-Dev.to-363D44?style=flat-square&logo=Dev.to&logoColor=white&link=https://open.spotify.com/user/caio.everest)](https://open.spotify.com/user/caio.everest)
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify)](https://open.spotify.com/user/caio.everest)
+[![Dev.to Badge](https://img.shields.io/badge/-Dev.to-363D44?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/caioeverest)](https://dev.to/caioeverest)
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&link=https://open.spotify.com/user/caio.everest)](https://open.spotify.com/user/caio.everest)
 
 ---
 <img align="right" src="https://media3.giphy.com/media/Nx0rz3jtxtEre/200.gif"/>
@@ -74,59 +74,59 @@
  <summary>🤖 <b>My programming stats</b>: </summary>
 <br>
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
+**🐱 My Github Data**
 
 > 🏆 41 Contributions in the Year 2021
- > 
-> 📦 44.9 kB Used in Github's Storage 
- > 
+ >
+> 📦 44.9 kB Used in Github's Storage
+ >
 > 🚫 Not Opted to Hire
- > 
-> 📜 28 Public Repositories 
- > 
-> 🔑 1 Private Repository 
- > 
-**I'm an Early 🐤** 
+ >
+> 📜 28 Public Repositories
+ >
+> 🔑 1 Private Repository
+ >
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    83 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.74% 
-🌆 Daytime    264 commits    ███████████████░░░░░░░░░░   59.59% 
-🌃 Evening    70 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.8% 
+🌞 Morning    83 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.74%
+🌆 Daytime    264 commits    ███████████████░░░░░░░░░░   59.59%
+🌃 Evening    70 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.8%
 🌙 Night      26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.87%
 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Tuesday**
 
 ```text
-Monday       89 commits     █████░░░░░░░░░░░░░░░░░░░░   20.09% 
-Tuesday      100 commits    █████░░░░░░░░░░░░░░░░░░░░   22.57% 
-Wednesday    78 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.61% 
-Thursday     83 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.74% 
-Friday       78 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.61% 
-Saturday     13 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.93% 
+Monday       89 commits     █████░░░░░░░░░░░░░░░░░░░░   20.09%
+Tuesday      100 commits    █████░░░░░░░░░░░░░░░░░░░░   22.57%
+Wednesday    78 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.61%
+Thursday     83 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.74%
+Friday       78 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.61%
+Saturday     13 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.93%
 Sunday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-💻 Operating System: 
+💻 Operating System:
 No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in Go** 
+**I Mostly Code in Go**
 
 ```text
-Go                       7 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
-Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
+Go                       7 repos             ████████░░░░░░░░░░░░░░░░░   33.33%
+HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.05%
+Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52%
 C#                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52%
 
 ```
