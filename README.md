@@ -24,7 +24,7 @@
 
 ### GopheRio
 
-<img align="left" src="https://i.imgur.com/zmxMolD.png" alt="Gopher" style="width: 10%;">
+<img align="left" src="https://i.imgur.com/zmxMolD.png" alt="Gopher" width="123em">
 
 <br>
 <p>
@@ -81,7 +81,7 @@
 
 <div style="text-align:center">
     <a href="https://www.buymeacoffee.com/caioeverest" target="_blank">
-        <img src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=a" alt="Buy Me A Coffee" style="width: 20%;">
+        <img src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=a" alt="Buy Me A Coffee" width="173em">
     </a>
 </div>
 <!--stackedit_data:
