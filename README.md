@@ -51,10 +51,10 @@
 <details open>
     <summary>⚙ <b>GitHub Analytics</b>: </summary>
     <br>
-    <div style="text-align:center">
+    <p align="center">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=caioeverest&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=caioeverest&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    </div>
+    </p>
 </details>
 
 <br>
@@ -79,11 +79,8 @@
 
 ---
 
-<div style="text-align:center">
+<p align="center">
     <a href="https://www.buymeacoffee.com/caioeverest" target="_blank">
         <img src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=a" alt="Buy Me A Coffee" width="173em">
     </a>
-</div>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njk5ODE4NV19
--->
+</p>
