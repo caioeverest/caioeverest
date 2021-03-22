@@ -19,7 +19,7 @@
     our everyday more with technology :).
 </p>
 <p>
-    Currently, I'm working at <a href="https://www.pismo.io">Pismo</a> as a Software Engineer.
+    Currently, I'm working at <a href="https://cloudwalk.io">CloudWalk</a> as a Software Engineer.
 </p>
 
 ### GopheRio
