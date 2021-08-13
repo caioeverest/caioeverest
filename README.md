@@ -40,6 +40,7 @@
 ## 💻 Some stuff that I'm working now
 
 <a href=""><img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/-Rust-4f4f4f?style=flat-square&logo=rust&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/-Python-F7C400?style=flat-square&logo=python&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/-Ruby-980D02?style=flat-square&logo=ruby&logoColor=white"></a>
 <a href=""><img src="http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"></a>
