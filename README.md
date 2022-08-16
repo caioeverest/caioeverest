@@ -75,7 +75,7 @@
  <summary>🤖 <b>My programming stats</b>: </summary>
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C119%20hrs%2016%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -142,7 +142,7 @@ C#                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2022 02:30:58 UTC
+ Last Updated on 16/08/2022 02:28:07 UTC
 <!--END_SECTION:waka-->
 </details>
 
