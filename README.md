@@ -114,14 +114,13 @@ Sunday                   81 commits          █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     7 mins              █████████████████████████   99.13 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -137,7 +136,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/11/2023 01:22:34 UTC
+ Last Updated on 01/12/2023 01:35:10 UTC
 <!--END_SECTION:waka-->
 </details>
 
