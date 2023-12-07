@@ -75,8 +75,6 @@
  <summary>🤖 <b>My programming stats</b>: </summary>
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C276%20hrs%2035%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 80.2 kB Used in GitHub's Storage 
@@ -89,40 +87,6 @@
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                70 commits          █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
-🌆 Daytime                105 commits         ███████░░░░░░░░░░░░░░░░░░   28.23 % 
-🌃 Evening                79 commits          █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
-🌙 Night                  118 commits         ████████░░░░░░░░░░░░░░░░░   31.72 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-Tuesday                  39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-Wednesday                19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-Thursday                 36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Friday                   104 commits         ███████░░░░░░░░░░░░░░░░░░   27.96 % 
-Saturday                 61 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-Sunday                   81 commits          █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Go** 
 
 ```text
@@ -136,7 +100,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2023 01:23:29 UTC
+ Last Updated on 07/12/2023 01:22:57 UTC
 <!--END_SECTION:waka-->
 </details>
 
