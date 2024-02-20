@@ -75,7 +75,7 @@
  <summary>🤖 <b>My programming stats</b>: </summary>
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C444%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C444%20hrs%2033%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -143,7 +143,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/02/2024 01:18:58 UTC
+ Last Updated on 20/02/2024 01:16:38 UTC
 <!--END_SECTION:waka-->
 </details>
 
