@@ -72,7 +72,7 @@
  <summary>🤖 <b>My programming stats</b>: </summary>
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C840%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C840%20hrs%2029%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -136,7 +136,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2024 02:01:39 UTC
+ Last Updated on 30/09/2024 01:59:01 UTC
 <!--END_SECTION:waka-->
 </details>
 
