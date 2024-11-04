@@ -72,8 +72,6 @@
  <summary>🤖 <b>My programming stats</b>: </summary>
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C915%20hrs%2041%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 80.4 kB Used in GitHub's Storage 
@@ -139,7 +137,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2024 02:04:09 UTC
+ Last Updated on 04/11/2024 02:00:32 UTC
 <!--END_SECTION:waka-->
 </details>
 
