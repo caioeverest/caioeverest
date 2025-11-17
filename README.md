@@ -72,6 +72,8 @@
  <summary>🤖 <b>My programming stats</b>: </summary>
 <br>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C404%20hrs%2040%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 80.6 kB Used in GitHub's Storage 
@@ -136,7 +138,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/11/2025 02:12:14 UTC
+ Last Updated on 17/11/2025 02:07:40 UTC
 <!--END_SECTION:waka-->
 </details>
 
