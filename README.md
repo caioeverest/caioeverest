@@ -72,13 +72,13 @@
  <summary>🤖 <b>My programming stats</b>: </summary>
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C409%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C409%20hrs%2058%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 80.7 kB Used in GitHub's Storage 
  > 
-> 🏆 532 Contributions in the Year 2025
+> 🏆 537 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -111,14 +111,14 @@ Sunday                   161 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       39 mins             █████████████████████████   99.94 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Go                       23 mins             █████████████████████████   99.90 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-Cursor                   39 mins             █████████████████████████   100.00 % 
+Cursor                   23 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      39 mins             █████████████████████████   100.00 % 
+Mac                      23 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -134,7 +134,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/12/2025 02:09:39 UTC
+ Last Updated on 19/12/2025 02:18:55 UTC
 <!--END_SECTION:waka-->
 </details>
 
