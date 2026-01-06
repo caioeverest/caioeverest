@@ -72,7 +72,7 @@
  <summary>🤖 <b>My programming stats</b>: </summary>
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C413%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C413%20hrs%2011%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -136,7 +136,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/01/2026 02:33:53 UTC
+ Last Updated on 06/01/2026 02:23:02 UTC
 <!--END_SECTION:waka-->
 </details>
 
