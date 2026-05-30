@@ -72,32 +72,73 @@
  <summary>🤖 <b>My programming stats</b>: </summary>
 <br>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C571%20hrs%2050%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
-> 📦 79.3 kB Used in GitHub's Storage 
+> 📦 82.7 kB Used in GitHub's Storage 
  > 
-> 🏆 309 Contributions in the Year 2026
+> 🏆 342 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 43 Public Repositories 
  > 
-> 🔑 10 Private Repositories 
+> 🔑 11 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+🌆 Daytime                133 commits         █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+🌃 Evening                203 commits         ███████░░░░░░░░░░░░░░░░░░   28.63 % 
+🌙 Night                  292 commits         ██████████░░░░░░░░░░░░░░░   41.18 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+Tuesday                  82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Wednesday                67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+Thursday                 40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Friday                   140 commits         █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+Saturday                 146 commits         █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+Sunday                   155 commits         █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Go                       11 hrs 10 mins      █████████░░░░░░░░░░░░░░░░   37.20 % 
+TypeScript               5 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
+Markdown                 4 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Image (png)              2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+JSON                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+
+🔥 Editors: 
+Neovim                   27 hrs 58 mins      ███████████████████████░░   93.12 % 
+Claude Code              2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+
+💻 Operating System: 
+Mac                      30 hrs 2 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Go** 
 
 ```text
-Go                       12 repos            ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-Shell                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Lua                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Nix                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Go                       13 repos            ███████░░░░░░░░░░░░░░░░░░   28.26 % 
+Shell                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Lua                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Nix                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 ```
 
 
 
 
- Last Updated on 29/05/2026 04:25:08 UTC
+ Last Updated on 30/05/2026 04:10:02 UTC
 <!--END_SECTION:waka-->
 </details>
 
