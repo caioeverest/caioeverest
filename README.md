@@ -72,7 +72,7 @@
  <summary>🤖 <b>My programming stats</b>: </summary>
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C604%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C607%20hrs%209%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -111,13 +111,17 @@ Sunday                   155 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     1 hr 52 mins        ████████████████░░░░░░░░░   62.97 % 
+Other                    23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Protocol Buffer          14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+TypeScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Go                       6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   2 hrs 58 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -133,7 +137,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/07/2026 03:54:36 UTC
+ Last Updated on 05/07/2026 04:13:36 UTC
 <!--END_SECTION:waka-->
 </details>
 
