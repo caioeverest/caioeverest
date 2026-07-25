@@ -84,44 +84,6 @@
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-🌆 Daytime                135 commits         █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-🌃 Evening                219 commits         ███████░░░░░░░░░░░░░░░░░░   29.32 % 
-🌙 Night                  312 commits         ██████████░░░░░░░░░░░░░░░   41.77 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Tuesday                  97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Wednesday                84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Thursday                 40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-Friday                   140 commits         █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-Saturday                 151 commits         █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
-Sunday                   155 commits         █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               1 hr 4 mins         ███████░░░░░░░░░░░░░░░░░░   27.00 % 
-Image (png)              55 mins             ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
-Go                       39 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-TOML                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-
-🔥 Editors: 
-Neovim                   4 hrs               █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      4 hrs               █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Go** 
 
 ```text
@@ -135,7 +97,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 03:33:22 UTC
+ Last Updated on 25/07/2026 03:30:35 UTC
 <!--END_SECTION:waka-->
 </details>
 
