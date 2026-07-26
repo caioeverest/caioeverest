@@ -72,6 +72,8 @@
  <summary>🤖 <b>My programming stats</b>: </summary>
 <br>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C620%20hrs%2056%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 95.2 kB Used in GitHub's Storage 
@@ -84,6 +86,44 @@
  > 
 > 🔑 12 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+🌆 Daytime                135 commits         █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+🌃 Evening                219 commits         ███████░░░░░░░░░░░░░░░░░░   29.32 % 
+🌙 Night                  312 commits         ██████████░░░░░░░░░░░░░░░   41.77 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Tuesday                  97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+Wednesday                84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Thursday                 40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Friday                   140 commits         █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+Saturday                 151 commits         █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+Sunday                   155 commits         █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               1 hr 4 mins         ███████░░░░░░░░░░░░░░░░░░   27.36 % 
+Image (png)              55 mins             ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
+Go                       39 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+TOML                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+
+🔥 Editors: 
+Neovim                   3 hrs 57 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      3 hrs 57 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Go** 
 
 ```text
@@ -97,7 +137,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 03:30:35 UTC
+ Last Updated on 26/07/2026 03:45:22 UTC
 <!--END_SECTION:waka-->
 </details>
 
