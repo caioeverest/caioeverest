@@ -72,13 +72,15 @@
  <summary>🤖 <b>My programming stats</b>: </summary>
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C620%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C466%20hrs%2058%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-115%20hrs%204%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 95.2 kB Used in GitHub's Storage 
  > 
-> 🏆 409 Contributions in the Year 2026
+> 🏆 412 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -124,6 +126,29 @@ Neovim                   3 hrs 57 mins       ███████████�
 Mac                      3 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 3 hrs 54 mins (98.75%)
+
+✍️ 5,051 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 56,045,079 Input Tokens, 274,805 Output Tokens
+
+💵 $258.91 Estimated AI Cost This Week
+
+🧠 13 AI Sessions, 34 AI Prompts
+
+Opus                     2,687 lines         █████████████░░░░░░░░░░░░   52.10 % 
+Glm                      2,470 lines         ████████████░░░░░░░░░░░░░   47.90 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,373 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in Go** 
 
 ```text
@@ -137,7 +162,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 03:54:14 UTC
+ Last Updated on 28/07/2026 03:25:14 UTC
 <!--END_SECTION:waka-->
 </details>
 
