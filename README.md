@@ -72,11 +72,15 @@
  <summary>🤖 <b>My programming stats</b>: </summary>
 <br>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C466%20hrs%2058%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-115%20hrs%204%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 95.2 kB Used in GitHub's Storage 
  > 
-> 🏆 412 Contributions in the Year 2026
+> 🏆 413 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -109,40 +113,19 @@ Sunday                   155 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Image (png)              51 mins             ██████████████░░░░░░░░░░░   57.84 % 
-TypeScript               19 mins             █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
-JSON                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-TOML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-C#                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   1 hr 29 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 29 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 28 mins (99.18%)
-
-✍️ 1,416 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 35,280,423 Input Tokens, 110,488 Output Tokens
-
-💵 $179.41 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 19 AI Prompts
-
-Opus                     1,521 lines         █████████████████████████   100.00 % 
-Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 141 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -158,7 +141,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 03:27:02 UTC
+ Last Updated on 30/07/2026 03:14:43 UTC
 <!--END_SECTION:waka-->
 </details>
 
