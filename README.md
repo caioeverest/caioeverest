@@ -72,15 +72,15 @@
  <summary>🤖 <b>My programming stats</b>: </summary>
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C466%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C469%20hrs%2031%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-115%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-117%20hrs%2039%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 95.6 kB Used in GitHub's Storage 
  > 
-> 🏆 415 Contributions in the Year 2026
+> 🏆 416 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -113,19 +113,42 @@ Sunday                   155 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       52 mins             ████████░░░░░░░░░░░░░░░░░   33.90 % 
+TypeScript               44 mins             ███████░░░░░░░░░░░░░░░░░░   29.00 % 
+YAML                     30 mins             █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+Docker                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   2 hrs 34 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 34 mins (99.95%)
+
+✍️ 5,610 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 26,527,463 Input Tokens, 136,133 Output Tokens
+
+💵 $74.57 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 15 AI Prompts
+
+K                        4,127 lines         ██████████████████░░░░░░░   73.42 % 
+Qwen                     1,494 lines         ███████░░░░░░░░░░░░░░░░░░   26.58 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,176 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -141,7 +164,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 03:41:58 UTC
+ Last Updated on 01/08/2026 03:41:04 UTC
 <!--END_SECTION:waka-->
 </details>
 
