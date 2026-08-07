@@ -72,10 +72,6 @@
  <summary>🤖 <b>My programming stats</b>: </summary>
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C469%20hrs%2045%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-117%20hrs%2039%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 95.6 kB Used in GitHub's Storage 
@@ -88,68 +84,6 @@
  > 
 > 🔑 13 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-🌆 Daytime                135 commits         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-🌃 Evening                219 commits         ███████░░░░░░░░░░░░░░░░░░   29.28 % 
-🌙 Night                  312 commits         ██████████░░░░░░░░░░░░░░░   41.71 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-Tuesday                  97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Wednesday                84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-Thursday                 41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-Friday                   140 commits         █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
-Saturday                 151 commits         █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
-Sunday                   155 commits         █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Go                       52 mins             ████████░░░░░░░░░░░░░░░░░   31.21 % 
-TypeScript               44 mins             ███████░░░░░░░░░░░░░░░░░░   26.66 % 
-YAML                     30 mins             █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-
-🔥 Editors: 
-Neovim                   2 hrs 48 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      2 hrs 48 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 2 hrs 34 mins (91.9%)
-
-✍️ 5,610 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 29,026,427 Input Tokens, 137,761 Output Tokens
-
-💵 $78.61 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 15 AI Prompts
-
-K                        4,127 lines         ██████████████████░░░░░░░   73.42 % 
-Qwen                     1,494 lines         ███████░░░░░░░░░░░░░░░░░░   26.58 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,176 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in Go** 
 
 ```text
@@ -163,7 +97,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 03:26:58 UTC
+ Last Updated on 07/08/2026 03:11:46 UTC
 <!--END_SECTION:waka-->
 </details>
 
