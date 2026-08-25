@@ -113,41 +113,41 @@ Sunday                   155 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       8 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   41.69 % 
-Markdown                 3 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-Python                   1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-Other                    1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-YAML                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Go                       7 hrs 56 mins       ████████████░░░░░░░░░░░░░   49.97 % 
+Markdown                 2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+TypeScript               1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+Other                    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+YAML                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
 
 🔥 Editors: 
-Neovim                   21 hrs 10 mins      █████████████████████████   100.00 % 
+Neovim                   15 hrs 54 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      21 hrs 10 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 46 mins (93.37%)
+⏱ AI Coding Time: 15 hrs 12 mins (95.6%)
 
-✍️ 28,007 lines written by AI, 384 lines written by hand (98.65% AI-written)
+✍️ 17,854 lines written by AI, 257 lines written by hand (98.58% AI-written)
 
-🔤 62,909,055 Input Tokens, 1,496,309 Output Tokens
+🔤 58,290,686 Input Tokens, 1,077,582 Output Tokens
 
-💵 $754.43 Estimated AI Cost This Week
+💵 $661.44 Estimated AI Cost This Week
 
-🧠 59 AI Sessions, 195 AI Prompts
+🧠 22 AI Sessions, 103 AI Prompts
 
-K                        15,916 lines        ██████████████░░░░░░░░░░░   55.76 % 
-GPT                      8,860 lines         ████████░░░░░░░░░░░░░░░░░   31.04 % 
-Opus                     3,770 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+K                        10,412 lines        ██████████████░░░░░░░░░░░   56.38 % 
+GPT                      4,285 lines         ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
+Opus                     3,770 lines         █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.65% of written lines came from AI
-📚 Verbose Prompter — average 1,740 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 2.57% of changed lines were hand-edited
+🤖 AI-Driven — 98.58% of written lines came from AI
+📄 Detailed Prompter — average 1,306 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 3.16% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -163,7 +163,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2026 01:50:21 UTC
+ Last Updated on 25/08/2026 01:44:50 UTC
 <!--END_SECTION:waka-->
 </details>
 
