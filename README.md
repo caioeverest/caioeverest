@@ -80,7 +80,7 @@
 
 > 📦 95.6 kB Used in GitHub's Storage 
  > 
-> 🏆 425 Contributions in the Year 2026
+> 🏆 428 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -113,41 +113,42 @@ Sunday                   155 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       7 hrs 56 mins       ████████████░░░░░░░░░░░░░   49.97 % 
-Markdown                 2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-TypeScript               1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-Other                    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-YAML                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Go                       5 hrs 24 mins       ████████████░░░░░░░░░░░░░   48.23 % 
+TypeScript               1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+Markdown                 1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+YAML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Image (png)              32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
 
 🔥 Editors: 
-Neovim                   15 hrs 54 mins      █████████████████████████   100.00 % 
+Neovim                   11 hrs 12 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      15 hrs 54 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 12 mins (95.6%)
+⏱ AI Coding Time: 10 hrs 29 mins (93.6%)
 
-✍️ 17,854 lines written by AI, 257 lines written by hand (98.58% AI-written)
+✍️ 13,751 lines written by AI, 263 lines written by hand (98.12% AI-written)
 
-🔤 58,290,686 Input Tokens, 1,077,582 Output Tokens
+🔤 27,064,531 Input Tokens, 962,718 Output Tokens
 
-💵 $661.44 Estimated AI Cost This Week
+💵 $361.58 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 103 AI Prompts
+🧠 18 AI Sessions, 78 AI Prompts
 
-K                        10,412 lines        ██████████████░░░░░░░░░░░   56.38 % 
-GPT                      4,285 lines         ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
-Opus                     3,770 lines         █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+Opus                     6,358 lines         ███████████░░░░░░░░░░░░░░   44.25 % 
+GPT                      4,285 lines         ███████░░░░░░░░░░░░░░░░░░   29.82 % 
+K                        3,725 lines         ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.58% of written lines came from AI
-📄 Detailed Prompter — average 1,306 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 3.16% of changed lines were hand-edited
+🤖 AI-Driven — 98.12% of written lines came from AI
+📄 Detailed Prompter — average 1,030 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 4.12% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -163,7 +164,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2026 01:44:50 UTC
+ Last Updated on 26/08/2026 01:50:30 UTC
 <!--END_SECTION:waka-->
 </details>
 
