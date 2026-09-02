@@ -72,15 +72,15 @@
  <summary>🤖 <b>My programming stats</b>: </summary>
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C512%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C512%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-161%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-161%20hrs%2032%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 95.6 kB Used in GitHub's Storage 
  > 
-> 🏆 440 Contributions in the Year 2026
+> 🏆 455 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,21 +91,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-🌆 Daytime                141 commits         █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-🌃 Evening                220 commits         ███████░░░░░░░░░░░░░░░░░░   29.10 % 
-🌙 Night                  312 commits         ██████████░░░░░░░░░░░░░░░   41.27 % 
+🌞 Morning                84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+🌆 Daytime                141 commits         █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+🌃 Evening                220 commits         ███████░░░░░░░░░░░░░░░░░░   29.06 % 
+🌙 Night                  312 commits         ██████████░░░░░░░░░░░░░░░   41.22 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-Tuesday                  97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Wednesday                86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-Thursday                 44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-Friday                   142 commits         █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
-Saturday                 152 commits         █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
-Sunday                   155 commits         █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
+Monday                   80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Tuesday                  98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Wednesday                86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Thursday                 44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Friday                   142 commits         █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+Saturday                 152 commits         █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+Sunday                   155 commits         █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
 ```
 
 
@@ -113,45 +113,45 @@ Sunday                   155 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-Other                    2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Go                       1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Markdown                 1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-YAML                     1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+TypeScript               2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+YAML                     1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Markdown                 1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Other                    1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+JSON                     1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
 
 🔥 Editors: 
-Neovim                   10 hrs 11 mins      ███████████████████░░░░░░   75.18 % 
-OMP                      3 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
-Codex Vscode             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Neovim                   9 hrs 20 mins       ██████████████████░░░░░░░   73.53 % 
+OMP                      3 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   26.13 % 
+Codex Vscode             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 💻 Operating System: 
-Mac                      13 hrs 32 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 52 mins (87.69%)
+⏱ AI Coding Time: 10 hrs 53 mins (85.8%)
 
-✍️ 7,255 lines written by AI, 6,264 lines written by hand (53.67% AI-written)
+✍️ 4,315 lines written by AI, 6,257 lines written by hand (40.82% AI-written)
 
-🔤 128,077,308 Input Tokens, 803,289 Output Tokens
+🔤 125,514,645 Input Tokens, 642,805 Output Tokens
 
-💵 $590.80 Estimated AI Cost This Week
+💵 $557.50 Estimated AI Cost This Week
 
-🧠 1263 AI Sessions, 188 AI Prompts
+🧠 1271 AI Sessions, 172 AI Prompts
 
-Opus                     4,867 lines         █████████████████░░░░░░░░   66.61 % 
-OMP                      2,341 lines         ████████░░░░░░░░░░░░░░░░░   32.04 % 
-GPT                      99 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+OMP                      2,341 lines         █████████████░░░░░░░░░░░░   53.10 % 
+Opus                     1,969 lines         ███████████░░░░░░░░░░░░░░   44.66 % 
+GPT                      99 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 53.67% of written lines came from AI
-📚 Verbose Prompter — average 1,995 characters per prompt
+⚖️ Balanced with AI — 40.82% of written lines came from AI
+📚 Verbose Prompter — average 2,079 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 46.47% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 59.29% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -167,7 +167,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 04:54:06 UTC
+ Last Updated on 02/09/2026 04:14:41 UTC
 <!--END_SECTION:waka-->
 </details>
 
