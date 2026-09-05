@@ -72,15 +72,15 @@
  <summary>🤖 <b>My programming stats</b>: </summary>
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C517%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C520%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-166%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-169%20hrs%2010%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 96.8 kB Used in GitHub's Storage 
+> 📦 96.9 kB Used in GitHub's Storage 
  > 
-> 🏆 464 Contributions in the Year 2026
+> 🏆 469 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -113,45 +113,45 @@ Sunday                   155 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
-Markdown                 2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Go                       2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-JSON                     2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Other                    1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+TypeScript               6 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   33.94 % 
+Go                       2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Markdown                 2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+JSON                     2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+Other                    1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
 
 🔥 Editors: 
-Neovim                   13 hrs 28 mins      ███████████████████░░░░░░   76.14 % 
-OMP                      4 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
-Codex Vscode             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Neovim                   15 hrs 20 mins      ████████████████████░░░░░   78.49 % 
+OMP                      4 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+Codex Vscode             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 💻 Operating System: 
-Mac                      17 hrs 41 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 10 mins (91.45%)
+⏱ AI Coding Time: 18 hrs 45 mins (95.95%)
 
-✍️ 3,971 lines written by AI, 6,144 lines written by hand (39.26% AI-written)
+✍️ 4,981 lines written by AI, 5,995 lines written by hand (45.38% AI-written)
 
-🔤 179,408,901 Input Tokens, 737,887 Output Tokens
+🔤 214,342,557 Input Tokens, 819,488 Output Tokens
 
-💵 $825.43 Estimated AI Cost This Week
+💵 $1024.83 Estimated AI Cost This Week
 
-🧠 1926 AI Sessions, 239 AI Prompts
+🧠 2184 AI Sessions, 252 AI Prompts
 
-OMP                      3,971 lines         █████████████████████████   100.00 % 
+OMP                      4,981 lines         █████████████████████████   100.00 % 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 39.26% of written lines came from AI
-📚 Verbose Prompter — average 1,670 characters per prompt
+⚖️ Balanced with AI — 45.38% of written lines came from AI
+📚 Verbose Prompter — average 1,762 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 61.27% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 55.18% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -167,7 +167,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2026 04:17:20 UTC
+ Last Updated on 05/09/2026 04:13:36 UTC
 <!--END_SECTION:waka-->
 </details>
 
