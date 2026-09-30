@@ -72,7 +72,7 @@
  <summary>🤖 <b>My programming stats</b>: </summary>
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C569%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C569%20hrs%209%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-217%20hrs%2011%20mins-blue?style=flat)
 
@@ -80,7 +80,7 @@
 
 > 📦 97.2 kB Used in GitHub's Storage 
  > 
-> 🏆 523 Contributions in the Year 2026
+> 🏆 524 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -113,32 +113,32 @@ Sunday                   159 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   12 hrs 3 mins       ██████████████░░░░░░░░░░░   55.14 % 
-HTML                     1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-YAML                     1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-Markdown                 1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-C#                       1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Python                   11 hrs 24 mins      █████████████░░░░░░░░░░░░   53.93 % 
+HTML                     1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+YAML                     1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Markdown                 1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+C#                       1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
 
 🔥 Editors: 
-Neovim                   19 hrs 38 mins      ██████████████████████░░░   89.77 % 
-OMP                      2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Neovim                   18 hrs 54 mins      ██████████████████████░░░   89.41 % 
+OMP                      2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
 
 💻 Operating System: 
-Mac                      21 hrs 52 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 36 mins (89.62%)
+⏱ AI Coding Time: 18 hrs 47 mins (88.89%)
 
 ✍️ 2,672 lines written by AI, 2,318 lines written by hand (53.55% AI-written)
 
-🔤 352,663,060 Input Tokens, 822,277 Output Tokens
+🔤 345,690,151 Input Tokens, 797,827 Output Tokens
 
-💵 $2377.61 Estimated AI Cost This Week
+💵 $2355.41 Estimated AI Cost This Week
 
-🧠 2414 AI Sessions, 344 AI Prompts
+🧠 2377 AI Sessions, 336 AI Prompts
 
 OMP                      2,672 lines         █████████████████████████   100.00 % 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -147,7 +147,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 53.55% of written lines came from AI
-📄 Detailed Prompter — average 1,297 characters per prompt
+📄 Detailed Prompter — average 1,329 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
 🚀 High AI Trust — 47.33% of changed lines were hand-edited
 ```
@@ -165,7 +165,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2026 05:33:40 UTC
+ Last Updated on 30/09/2026 05:22:07 UTC
 <!--END_SECTION:waka-->
 </details>
 
