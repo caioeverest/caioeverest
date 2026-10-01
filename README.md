@@ -113,43 +113,43 @@ Sunday                   159 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   11 hrs 24 mins      █████████████░░░░░░░░░░░░   53.93 % 
-HTML                     1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-YAML                     1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Markdown                 1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-C#                       1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Python                   5 hrs 13 mins       ███████████░░░░░░░░░░░░░░   42.30 % 
+YAML                     1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+C#                       1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Go                       1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Markdown                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
 
 🔥 Editors: 
-Neovim                   18 hrs 54 mins      ██████████████████████░░░   89.41 % 
-OMP                      2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+Neovim                   10 hrs 7 mins       ████████████████████░░░░░   81.89 % 
+OMP                      2 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
 
 💻 Operating System: 
-Mac                      21 hrs 8 mins       █████████████████████████   100.00 % 
+Mac                      12 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 47 mins (88.89%)
+⏱ AI Coding Time: 10 hrs (81.0%)
 
-✍️ 2,672 lines written by AI, 2,318 lines written by hand (53.55% AI-written)
+✍️ 2,630 lines written by AI, 1,324 lines written by hand (66.51% AI-written)
 
-🔤 345,690,151 Input Tokens, 797,827 Output Tokens
+🔤 289,940,741 Input Tokens, 664,805 Output Tokens
 
-💵 $2355.41 Estimated AI Cost This Week
+💵 $2181.86 Estimated AI Cost This Week
 
-🧠 2377 AI Sessions, 336 AI Prompts
+🧠 1913 AI Sessions, 265 AI Prompts
 
-OMP                      2,672 lines         █████████████████████████   100.00 % 
+OMP                      2,630 lines         █████████████████████████   100.00 % 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 53.55% of written lines came from AI
-📄 Detailed Prompter — average 1,329 characters per prompt
+🤖 AI-Driven — 66.51% of written lines came from AI
+📚 Verbose Prompter — average 1,639 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 47.33% of changed lines were hand-edited
+🚀 High AI Trust — 34.85% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -165,7 +165,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2026 05:22:07 UTC
+ Last Updated on 01/10/2026 05:36:48 UTC
 <!--END_SECTION:waka-->
 </details>
 
