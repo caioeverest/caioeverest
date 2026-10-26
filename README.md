@@ -6,43 +6,50 @@
 
 ## Hello there 🖖
 
-I'm Caio, a computer scientist and software engineer based in Rio de Janeiro, Brazil. I build backend systems and the tools engineers use to work on them.
+I'm Caio, a computer scientist and full-stack software engineer from Rio de Janeiro, Brazil. I build software from the database to the screen, plus the tools engineers use to build it. If it breaks anywhere in between, it's probably my fault, and I'm probably the one fixing it.
 
-I'm currently Head of Engineering at Flutter, and I still write code. Before moving into management, I worked as a Senior, Staff, and Lead engineer at Flutter, will bank, CloudWalk, Pismo, and OLX. My work has covered payments, digital banking, identity, distributed transactions, and developer tooling.
+I'm currently Head of Engineering at Flutter, and yes, I still write code. Mostly at night, judging by the stats below (my sleep schedule has no SLA). Before management, I was a Senior, Staff, and Lead engineer at Flutter, will bank, CloudWalk, Pismo, and OLX, working on payments, digital banking, identity, distributed transactions, and developer tooling. I speak English and Portuguese, plus a few languages that compile.
 
-I work mainly with **Go, Rust, TypeScript, and Node.js**, and also have professional experience with **Java, Kotlin, and Groovy**. I work across the full service lifecycle: design, implementation, deployment, maintenance, and on-call. I speak English and Portuguese fluently.
+### 🥞 Full stack, top to bottom
 
-### What I've been working on
+I don't stop at the API boundary. I've shipped across every layer, and I've been paged for most of them.
 
-- **AI for software development.** I develop internal AI tools and help engineers adopt AI-assisted workflows through internal talks and hands-on workshops. I continue building alongside the teams I lead.
-- **Backend systems and product delivery.** Developed authentication, identity, and onboarding systems. Guided delivery of a financial ledger with 4x faster inserts and an experimentation program that increased overall onboarding conversion by 21 percentage points.
-- **Payments and distributed transactions.** Developed Node.js/TypeScript Pix flows with Temporal and the Saga pattern, built a Rust connector for direct card-network integrations, and helped develop banking products in Go and Rust.
-- **JVM backend and Android.** Built backend systems and new microservices in Java, Kotlin, and Groovy, and used Kotlin for Android development. Worked with Spring, Micronaut, Maven, and Gradle.
+- **Frontend and mobile.** TypeScript on the web, Kotlin on Android. [ADD: your web frameworks, e.g. React / Next.js]. Yes, I've centered a div. Twice.
+- **Backend.** Mostly **Go, Rust, and Node.js**, plus **Java, Kotlin, and Groovy** with Spring and Micronaut. I've built microservices, monoliths, and things that started as one and became the other.
+- **Workflows and data.** Temporal for long-running flows, Sagas for distributed transactions, and ledgers that need to add up to the cent.
+- **Shipping and running it.** Design, implementation, deployment, maintenance, and the 3 a.m. part called on-call. Maven and Gradle survived me. Barely.
 
-### Banking infrastructure at Pismo
+### 💸 Payments: making money move (and making sure it lands)
 
-From July 2020 to February 2021, I worked as a Senior Software Engineer at Pismo, building banking infrastructure in Go and Groovy. Pismo was later acquired by Visa in 2024, following a [US$1 billion deal announcement](https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.19751.html).
+I've spent a good chunk of my career on systems where "eventually consistent" is not an acceptable answer to "where's my money?"
 
-- Developed banking features through Go and Groovy microservices on a multi-tenant Banking-as-a-Service platform, supporting high-throughput applications.
-- Built reusable tools and libraries for application setup and recurring development tasks, giving engineers shared implementations of engineering practices.
-- Documented development standards and onboarding guidelines, giving new engineers a consistent reference for the platform’s conventions.
+- **Pix flows.** Built instant-payment flows in Node.js/TypeScript with Temporal and the Saga pattern, because when money moves, every step needs a plan to undo itself.
+- **Card networks.** Built a Rust connector for direct card-network integrations. No middlemen, no garbage collector, no excuses.
+- **Ledgers.** Guided delivery of a financial ledger with 4x faster inserts. The database finally stopped sighing.
+- **Banking platforms.** Helped build banking products in Go and Rust. At Pismo, I built banking features as Go and Groovy microservices on a multi-tenant Banking-as-a-Service platform for high-throughput applications. Pismo was later [acquired by Visa](https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.19751.html).
 
-### Personal projects and experiments
+### What else I've been up to
 
-I build tools around the OMP/Pi coding-agent ecosystem and the OpenRouter API. My projects include a private marketplace for plugins and reusable skills, integrations that bring GitHub and PostgreSQL context into agent sessions, and tools for understanding AI usage and spending. These are personal projects, separate from my work at Flutter.
+- **AI for software development.** I build internal AI tools and run talks and hands-on workshops to help engineers adopt AI-assisted workflows. I still build alongside my teams, so I can't blame everything on the robots.
+- **Identity and onboarding.** Built authentication, identity, and onboarding systems, and guided an experimentation program that raised overall onboarding conversion by 21 percentage points. Fewer people rage-quitting the signup form.
 
-A couple of public projects:
+### Side quests
 
-- [Gocfg](https://github.com/caioeverest/gocfg): a Go configuration library with environment interpolation.
-- [Supernova](https://github.com/caioeverest/supernova): a script for setting up a development environment on Linux.
+I build tools around the OMP/Pi coding-agent ecosystem and the OpenRouter API: a private marketplace for plugins and reusable skills, integrations that bring GitHub and PostgreSQL context into agent sessions, and tools that track AI usage and spending (so I know exactly how much my curiosity costs). These are personal projects, separate from my work at Flutter.
+
+A couple of public ones:
+
+- [Gocfg](https://github.com/caioeverest/gocfg): a Go configuration library with environment interpolation. For when your config needs to know where it lives.
+- [Supernova](https://github.com/caioeverest/supernova): a script that sets up a Linux dev environment, so I never have to remember how I did it last time.
 
 ### GopheRio
 
-In 2019, [@marcopollivier](https://github.com/marcopollivier), [@solivaf](https://github.com/solivaf), and I helped rebuild the Go user group in Rio de Janeiro through [GopheRio Meetup](https://www.meetup.com/GopheRio).
+In 2019, [@marcopollivier](https://github.com/marcopollivier), [@solivaf](https://github.com/solivaf), and I helped rebuild the Go user group in Rio de Janeiro through [GopheRio Meetup](https://www.meetup.com/GopheRio). Gophers, beaches, and goroutines.
 
 ### Let's talk
 
-I'm interested in remote Senior, Staff, and engineering leadership opportunities where I can keep building software and improve how engineers work. You can reach me on [LinkedIn](https://www.linkedin.com/in/caioeverest/) or at [caioeverest.b@gmail.com](mailto:caioeverest.b@gmail.com).
+I'm open to remote Senior, Staff, and engineering leadership roles where I can keep building software across the whole stack and make engineers' lives a little easier. Find me on [LinkedIn](https://www.linkedin.com/in/caioeverest/) or at [caioeverest.b@gmail.com](mailto:caioeverest.b@gmail.com). I reply faster than my CI.
+
 
 <details>
 <summary>My programming stats</summary>
