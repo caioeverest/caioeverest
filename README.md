@@ -1,76 +1,52 @@
 # [Caio Everest](https://caioeverest.dev)
 
-<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=caioeverest.caioeverest" alt="visitors">
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caioeverest/)](https://www.linkedin.com/in/caioeverest/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mollivier.dev@gmail.com)](mailto:caioeverest.b@gmail.com/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/caioeverest)](https://twitter.com/caioeverest)
-[![Dev.to Badge](https://img.shields.io/badge/-Dev.to-363D44?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/caioeverest)](https://dev.to/caioeverest)
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&link=https://open.spotify.com/user/caio.everest)](https://open.spotify.com/user/caio.everest)
-
----
-<img align="right" src="https://media3.giphy.com/media/Nx0rz3jtxtEre/200.gif"/>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caioeverest/)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:caioeverest.b@gmail.com)
+[![Dev.to](https://img.shields.io/badge/-Dev.to-363D44?style=flat-square&logo=Dev.to&logoColor=white)](https://dev.to/caioeverest)
 
 ## Hello there 🖖
 
-<p>
-    I'm Caio Everest, a computer scientist and a software engineer. I've worked on backend, frontend and mobile as a developer
-    but specialized on backend, focusing on the area of distributed transactions. I am also a enthusiast of IoT and of integrating
-    our everyday more with technology :).
-</p>
+I'm Caio, a computer scientist and software engineer based in Rio de Janeiro, Brazil. I build backend systems and the tools engineers use to work on them.
+
+I'm currently Head of Engineering at Flutter, and I still write code. Before moving into management, I worked as a Senior, Staff, and Lead engineer at Flutter, will bank, CloudWalk, Pismo, and OLX. My work has covered payments, digital banking, identity, distributed transactions, and developer tooling.
+
+I work mainly with **Go, Rust, TypeScript, and Node.js**, and also have professional experience with **Java, Kotlin, and Groovy**. I work across the full service lifecycle: design, implementation, deployment, maintenance, and on-call. I speak English and Portuguese fluently.
+
+### What I've been working on
+
+- **AI for software development.** I develop internal AI tools and help engineers adopt AI-assisted workflows through internal talks and hands-on workshops. I continue building alongside the teams I lead.
+- **Backend systems and product delivery.** Developed authentication, identity, and onboarding systems. Guided delivery of a financial ledger with 4x faster inserts and an experimentation program that increased overall onboarding conversion by 21 percentage points.
+- **Payments and distributed transactions.** Developed Node.js/TypeScript Pix flows with Temporal and the Saga pattern, built a Rust connector for direct card-network integrations, and helped develop banking products in Go and Rust.
+- **JVM backend and Android.** Built backend systems and new microservices in Java, Kotlin, and Groovy, and used Kotlin for Android development. Worked with Spring, Micronaut, Maven, and Gradle.
+
+### Banking infrastructure at Pismo
+
+From July 2020 to February 2021, I worked as a Senior Software Engineer at Pismo, building banking infrastructure in Go and Groovy. Pismo was later acquired by Visa in 2024, following a [US$1 billion deal announcement](https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.19751.html).
+
+- Developed banking features through Go and Groovy microservices on a multi-tenant Banking-as-a-Service platform, supporting high-throughput applications.
+- Built reusable tools and libraries for application setup and recurring development tasks, giving engineers shared implementations of engineering practices.
+- Documented development standards and onboarding guidelines, giving new engineers a consistent reference for the platform’s conventions.
+
+### Personal projects and experiments
+
+I build tools around the OMP/Pi coding-agent ecosystem and the OpenRouter API. My projects include a private marketplace for plugins and reusable skills, integrations that bring GitHub and PostgreSQL context into agent sessions, and tools for understanding AI usage and spending. These are personal projects, separate from my work at Flutter.
+
+A couple of public projects:
+
+- [Gocfg](https://github.com/caioeverest/gocfg): a Go configuration library with environment interpolation.
+- [Supernova](https://github.com/caioeverest/supernova): a script for setting up a development environment on Linux.
 
 ### GopheRio
 
-<img align="left" src="https://i.imgur.com/zmxMolD.png" alt="Gopher" width="123em">
+In 2019, [@marcopollivier](https://github.com/marcopollivier), [@solivaf](https://github.com/solivaf), and I helped rebuild the Go user group in Rio de Janeiro through [GopheRio Meetup](https://www.meetup.com/GopheRio).
 
-<br>
-<p>
-    In 2019 I, <a href="https://github.com/marcopollivier">@marcopollivier</a> and <a href="https://github.com/solivaf">
-    @solivaf</a>, wanting to get more close to the Software Development
-    Community, redesigned the Golang users group in Rio de Janeiro city. The <a href="https://www.meetup.com/GopheRio">
-    GopheRio Meetup</a> was a great achievement for us and the golang community in Rio.
-</p>
-<br><br>
+### Let's talk
 
----
-
-## 💻 Some stuff that I'm working now
-
-<a href=""><img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/-Rust-4f4f4f?style=flat-square&logo=rust&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/-Python-F7C400?style=flat-square&logo=python&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/-Ruby-980D02?style=flat-square&logo=ruby&logoColor=white"></a>
-<a href=""><img src="http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"></a>
-<a href=""><img src="http://img.shields.io/badge/-Kotlin-7B6BDA?style=flat-square&logo=kotlin&logoColor=white"></a>
-<a href=""><img src="http://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"></a>
-<a href=""><img src="http://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=Terraform&logoColor=white"></a>
-<a href=""><img src="http://img.shields.io/badge/-Ansible-171615?style=flat-square&logo=Ansible&logoColor=white"></a>
-
-<details open>
-    <summary>⚙ <b>GitHub Analytics</b>: </summary>
-    <br>
-    <p align="center">
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=caioeverest&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=caioeverest&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    </p>
-</details>
-
-<br>
+I'm interested in remote Senior, Staff, and engineering leadership opportunities where I can keep building software and improve how engineers work. You can reach me on [LinkedIn](https://www.linkedin.com/in/caioeverest/) or at [caioeverest.b@gmail.com](mailto:caioeverest.b@gmail.com).
 
 <details>
-    <summary>🔨 <b>Some cool projects that you might checkout</b>: </summary>
-    <div style="margin-left:3em">
-        <li>🌠 <a href="https://github.com/caioeverest/supernova">Supernova</a> - Script that builds a development environment on linux machines</li>
-        <li>⚙ <a href="https://github.com/caioeverest/gocfg">Gocfg</a> - A golang library that loads config structs from files with environment interpolation</li>
-    </div>
-</details>
+<summary>My programming stats</summary>
 
-<br>
-
-
-<details>
- <summary>🤖 <b>My programming stats</b>: </summary>
-<br>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C570%20hrs%2054%20mins-blue?style=flat)
 
@@ -81,8 +57,6 @@
 > 📦 97.2 kB Used in GitHub's Storage 
  > 
 > 🏆 406 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
  > 
 > 📜 43 Public Repositories 
  > 
