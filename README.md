@@ -6,7 +6,7 @@
 
 Computer scientist and full-stack engineer from Rio de Janeiro. I build software from the database to the screen, plus the tools engineers use to build it — currently focused on payments, fintech, and tooling around coding agents.
 
-Head of Engineering at [Flutter](https://www.flutter.com), and yes, I still write code.
+Head of Engineering at [Flutter](https://www.flutter.com), and yes, I still write code — I just attend more meetings about it now.
 
 - 🔭 Currently Head of Engineering at Flutter, still shipping code
 - 💼 Flutter, will bank, CloudWalk, Pismo (acquired by Visa), OLX — payments, banking, identity, and developer tooling
@@ -17,6 +17,7 @@ Head of Engineering at [Flutter](https://www.flutter.com), and yes, I still writ
 ### Projects
 
 - [omp-plugins](https://github.com/caioeverest/omp-plugins) — a local OMP marketplace: first-party plugins plus curated skills for coding agents
+- [vulcan](https://github.com/caioeverest/vulcan) — a Go CLI that scaffolds projects from local or Git templates, giving teams a repeatable starting point for new services
 - [vim](https://github.com/caioeverest/vim) — my personal Neovim (Lua) config, inspired by [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)
 - [excalidraw.nvim](https://github.com/caioeverest/excalidraw.nvim) — a Neovim plugin that opens [Excalidraw](https://excalidraw.com) diagrams in the browser, syncing files back to disk
 - [gocfg](https://github.com/caioeverest/gocfg) — Go configuration tool with interpolation
