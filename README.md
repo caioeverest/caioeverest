@@ -32,9 +32,9 @@ I'm open to remote Senior, Staff, and Lead roles where I can keep building softw
 <summary>My programming stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C572%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C573%20hrs%2015%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-220%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-220%20hrs%2059%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -61,43 +61,43 @@ Sunday                   159 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 15 mins        ██████████████░░░░░░░░░░░   54.63 % 
-TypeScript               15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Markdown                 14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-JavaScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Python                   1 hr 15 mins        ██████████░░░░░░░░░░░░░░░   41.99 % 
+TypeScript               38 mins             █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+JavaScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 17 mins        ██████████████░░░░░░░░░░░   56.08 % 
-Neovim                   43 mins             ████████░░░░░░░░░░░░░░░░░   31.46 % 
-OMP                      17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Codex Vscode             1 hr 17 mins        ███████████░░░░░░░░░░░░░░   43.11 % 
+OMP                      52 mins             ███████░░░░░░░░░░░░░░░░░░   29.29 % 
+Neovim                   49 mins             ███████░░░░░░░░░░░░░░░░░░   27.61 % 
 
 💻 Operating System: 
-Mac                      2 hrs 17 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 17 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 58 mins (100.0%)
 
 ✍️ 846 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 7,136,407 Input Tokens, 141,166 Output Tokens
+🔤 25,996,809 Input Tokens, 316,366 Output Tokens
 
-💵 $43.74 Estimated AI Cost This Week
+💵 $179.43 Estimated AI Cost This Week
 
-🧠 160 AI Sessions, 30 AI Prompts
+🧠 440 AI Sessions, 58 AI Prompts
 
 GPT                      749 lines           ██████████████████████░░░   88.53 % 
 Codex-Vscode             63 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
 OMP                      34 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Jev                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 6,651 characters per prompt
+📚 Verbose Prompter — average 4,354 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -115,7 +115,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2026 05:32:25 UTC
+ Last Updated on 30/10/2026 05:32:29 UTC
 <!--END_SECTION:waka-->
 </details>
 
